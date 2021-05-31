@@ -2,7 +2,7 @@
 
 Hello Rust is one of my first Rust program. To do more than what the `cargo new` has bootstrapped the project with, I decided to add some additional piece of code that can tell if a number is odd or even when supplied a number from the `stdin` (Standard Input) console.
 
-```rs
+```rust
 fn main() {
     println!("Hello, Rust!");
 }
